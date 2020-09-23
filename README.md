@@ -1,1 +1,1 @@
-# control-lamb2off
+# control-fan
